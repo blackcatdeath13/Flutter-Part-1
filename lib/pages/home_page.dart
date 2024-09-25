@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_lagu_daerah_app/models/province.dart';
+import 'package:flutter_lagu_daerah_app/data/models/province.dart';
 import 'package:flutter_lagu_daerah_app/pages/detail_page.dart';
 
 class HomePage extends StatefulWidget {
